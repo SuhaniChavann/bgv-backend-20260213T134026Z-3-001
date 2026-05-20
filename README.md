@@ -1,6 +1,6 @@
 # BGV Backend — Background Verification Platform API
 
-**Authors:** Niel Mandhare & Atharva Jadhav
+**Authors:** Niel Mandhare & Atharva Jadhav & Suhani Chavan
 **Company:** Shovel Screening Solutions
 **Version:** 1.3.1
 **Runtime:** Node.js + Express.js
